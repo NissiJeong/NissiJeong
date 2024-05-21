@@ -3,7 +3,7 @@
 Nissy's Velog, LinkedIn
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jnissi92)](https://velog.io/@jnissi92/posts)
-[![image]({BadgeURLHere})](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin's Github stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **NissiJeong/NissiJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
