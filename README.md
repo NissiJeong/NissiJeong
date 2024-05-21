@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Nissy's Velog 
+Nissy's Velog, LinkedIn
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jnissi92)](https://velog.io/@jnissi92/posts)
 <!--
 **NissiJeong/NissiJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
